@@ -15,4 +15,5 @@ Quanto mais avançar no bootcamp irei adicionar mais arquivos e comandos. 👋
 ## Sobre o Git Bash 🤔
 
 Você pode baixar ele nesse site: https://git-scm.com/downloads
+
 O Git Bash é um terminal extendito para otimizar o uso do Git.
